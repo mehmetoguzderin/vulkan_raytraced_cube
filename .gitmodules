@@ -4,8 +4,8 @@
 	
 [submodule "modules/glm"]
 	path = modules/glm
-	url = https://github.com/g-truc/glm
+	url = https://github.com/g-truc/glm.git
 	
 [submodule "modules/stb"]
 	path = modules/stb
-	url = https://github.com/nothings/stb
+	url = https://github.com/nothings/stb.git

@@ -4,7 +4,7 @@
 | ![Raytraced Cube](https://github.com/OguzDerin/vulkan_raytraced_cube/blob/master/docs/img/raytraced_cube.png) | ![Original Cube](https://github.com/OguzDerin/vulkan_raytraced_cube/blob/master/docs/img/lunarg_cube.png) |
 
 ## Before Reading
-I'd like to get your opinions and help on this project, it would be super cool if we can turn this into a referenceable code for upcoming Vulkan learners and a solid base for quick Vulkan projects and experimentations. So every contribution would be more than welcome! And as a side note, if there is a code source I forgot to mention, please tell me to add it.
+I'd like to get your opinions and help on this project, it would be super cool if we can turn this into a referenceable code for Vulkan learners, users and a solid base for quick Vulkan projects and experimentations. So every contribution would be more than welcome! And as a side note, if there is a code source I forgot to mention, please tell me to add it.
 ## https://github.com/LunarG/VulkanSamples/blob/master/demos/cube.cpp
 This project is based on this awesome Cube demo built by LunarG
 ## What's Different?

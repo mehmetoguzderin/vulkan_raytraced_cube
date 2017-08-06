@@ -29,6 +29,7 @@ This project is based on this awesome Cube demo built by LunarG
 3. Run!
 
 ## To Do List
+* Reorder member functions
 * Improve code consistency
 * Improve naming conventions
 * Remove redundant code
